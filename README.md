@@ -30,9 +30,7 @@ saurav = {
     "degree"     : "CS / AI undergraduate",
     "building"   : ["Landing pages", "MVP builds", "SaaS products"],
     "stack"      : ["v0", "Claude Code", "Vercel", "Next.js"],
-    "pipeline"   : ["Apache Airflow", "MariaDB", "Redis", "Docker"],
-    "side_quests": ["Mobile photography 📷", "@devdiary.ai content", "df-explain pip package"],
-    "endgame"    : "Fintech startup in Nepal 🚀"
+    "pipeline"   : ["Apache Airflow", "MariaDB", "Redis", "Docker"]
 }
 ```
 
@@ -46,7 +44,6 @@ saurav = {
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs&theme=dark" />
 
 ### Data & ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -58,7 +55,6 @@ saurav = {
 ### AI-Accelerated Dev
 <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -72,7 +68,6 @@ saurav = {
 
 ```
 🏗️  Building  →  Landing page + MVP freelance business (Thamel outreach)
-📦  Shipping  →  df-explain: Pandas DataFrame explainer via local LLM (PyPI)
 📸  Creating  →  Mobile photography content on Instagram
 🎓  Studying  →  Data Engineering / MLOps module + campus placements prep
 ```
@@ -93,25 +88,12 @@ saurav = {
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🏷️ **df-explain** | Python · Ollama · PyPI | 🔨 Building |
-| 🌐 **Client Landing Pages** | Next.js · v0 · Vercel | 🟢 Active |
-| 📊 **Iris/Wine ML Pipelines** | Airflow · MariaDB · Redis | ✅ Done |
-| 📱 **@devdiary.ai** | Claude · Playwright · Lightroom | 🟡 Growing |
-| 💬 **LAN Chat App** | Python · Tkinter | ✅ Done |
-
----
-
 ## 🌐 Connect
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
 
-[![Instagram](https://img.shields.io/badge/@devdiary.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devdiary.ai)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurav)
 
 </div>
